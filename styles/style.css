@@ -1,0 +1,57 @@
+/**{
+  margin: 0px;
+  border: 1px solid black;
+}
+*/
+
+body {
+  font-size: 13px;
+  font-family: arial , sans-serif;
+}
+
+/*navbar*/
+#signin{
+  padding: 7px 12px;
+  background-color: #4368f7;
+  color: white;
+  font-weight: bold;
+  border-radius: 2px;
+}
+
+#gapp {
+  padding-right: 18px;
+  padding-left: 5px;
+  position: relative;
+  top: 7px;
+}
+
+a.navbar {
+  padding: 2px 8px;
+}
+
+div.navbar {
+  width: auto;
+  position: fixed;
+  top: 15px;
+  right: 30px;
+}
+
+a {
+  display: inline;
+  text-decoration: none;
+  color: black;
+}
+
+/*main*/
+#logo {
+  height: 90px;
+  width: 270px;
+  margin: auto;
+  display: block;
+}
+
+div.main {
+  width: auto;
+  position: relative;
+  top: 180px;
+}
